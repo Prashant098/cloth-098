@@ -3,3 +3,4 @@ Clothes
 Jens
 T-SHIRT
 Shirt
+Shirt material
